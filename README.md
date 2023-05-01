@@ -1,4 +1,4 @@
-GPT-Based Vector Index Program
+# GPT-Based Vector Index Program #
 This program uses OpenAI's GPT language model to create a vector index for a collection of text documents. The vector index can be used for information retrieval tasks such as similarity search and document clustering.
 
 # Requirements
